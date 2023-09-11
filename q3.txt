@@ -1,4 +1,4 @@
 A. Reverse-i search allows you to search through the command history for a specific string.
 B. "ls -a" shows all the folders/files present in a directory. 
-C. I have used different linux distributions in the past. I'm comfortable with debian based linux.
+C. I have used different linux distributions in the past. I'm currently using EndeavourOS, an arch-linux based distribution.
 D. No I have not. I'm familiar with cloud based hosting services.
